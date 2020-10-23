@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+
+.modal-open {
+  overflow: hidden;
+}
+
+.button-row {
+  margin: 0 0 1rem 0;
+}
+
+.button-row button {
+  margin-right: 1rem;
+}
+
+.stardb-app .row {
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+
+.stardb-app {
+  max-width: 1200px;
+  margin: 0 auto;
+}

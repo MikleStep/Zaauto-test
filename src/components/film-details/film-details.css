@@ -1,0 +1,27 @@
+.film-details {
+  border: 1px solid #444;
+  padding: 1rem;
+}
+.film-card {
+  display: flex;
+  flex-direction: row;
+}
+
+.film-details .film-image {
+  width: 30%;
+  height: 30%;
+  border-radius: 10px;
+}
+
+.film-details .list-group-item {
+  padding: .25rem;
+  background: inherit;
+}
+
+.film-details .list-group-item .term{
+  margin-right: .5rem;
+}
+
+.film-details button {
+  margin-top: 5px;
+}

@@ -1,0 +1,36 @@
+.reviews-button {
+  border: none;
+  color: #ffffff;
+  background-color: #2d5f85;
+  border-radius: 15px;
+  padding: 8px 20px;
+  transition: 0.2s;
+  margin-bottom: 20px;
+}
+
+.reviews-button:hover {
+  background-color: #397eb3;
+  transition: 0.2s
+}
+
+.review-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.review-form button {
+  max-width: 200px;
+  margin: 0 auto;
+  margin-top: 30px;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 20px;
+  background-color: tomato;
+  color: #ffffff;
+}
+
+.review-label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
